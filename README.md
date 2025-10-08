@@ -1,18 +1,14 @@
 # 👋 Hi, I'm Siersi 
 
+<h3 align="center">
+  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-full-stack-computer-science-flaticons-flat-flat-icons.png" width="28" alt="stack"/>
+  <span style="color: #58A6FF; font-size: 1.2em;">Full-Stack Developer</span>
+  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-full-stack-computer-science-flaticons-flat-flat-icons.png" width="28" alt="stack"/>
+</h3>
+
 <p align="center">
-  <span style="font-size: 28px; font-weight: bold; background: linear-gradient(90deg, #ff0000, #ff8000, #ffff00, #00ff00, #0000ff, #8000ff); background-size: 400% 400%; -webkit-background-clip: text; color: transparent; animation: rainbow 4s ease infinite;">Full-Stack Developer</span>
+  ⚡ 构建可靠系统 | 专注代码质量 | 全栈技术实践者
 </p>
-
-<style>
-  @keyframes rainbow {
-    0% { background-position: 0% 50% }
-    50% { background-position: 100% 50% }
-    100% { background-position: 0% 50% }
-  }
-</style>
-
-⚡ 简洁 · 高效 · 代码即艺术
 
 ---
 
@@ -39,9 +35,9 @@
 
 ### 📊 GitHub Analytics
 
-[![Siersi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siers1&show_icons=true&theme=radical&hide_title=true)](https://github.com/Siers1)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siers1&show_icons=true&theme=radical&hide_title=true)](https://github.com/Siers1)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siers1&layout=compact&theme=dark&hide_border=true)](https://github.com/Siers1)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siers1&layout=compact&theme=dark)](https://github.com/Siers1)
 
 ### 📅 Coding Activity
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Siers1&theme=react-dark&area=true&hide_border=true)
