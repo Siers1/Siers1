@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Siersi 
+# 👋 Hi, I'm Siersi (Siers1)
 
 **`Full-Stack Developer`**  
-🚀 Building robust systems with clean code
+⚡ 简洁 · 高效 · 代码即艺术
 
 ---
 
@@ -16,7 +16,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 
-**Technologies**  
+**Frameworks & Tools**  
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-6DB33F?logo=spring&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vuedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
@@ -26,12 +26,14 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siers1&show_icons=true&theme=radical)
+[![Siers1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siers1&show_icons=true&theme=radical&hide_title=true)](https://github.com/Siers1)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siers1&layout=compact&theme=dark)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siers1&layout=compact&theme=dark&hide_border=true)](https://github.com/Siers1)
 
 ---
 
-⚡ **Fun Fact:** I can debug CSS while writing Java streams!
+🔗 **Connect with me:**  
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
