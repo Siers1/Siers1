@@ -1,10 +1,8 @@
 # 👋 Hi, I'm Siersi 
 
-<h3 align="center">
-  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-full-stack-computer-science-flaticons-flat-flat-icons.png" width="28" alt="stack"/>
-  <span style="color: #58A6FF; font-size: 1.2em;">Full-Stack Developer</span>
-  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-full-stack-computer-science-flaticons-flat-flat-icons.png" width="28" alt="stack"/>
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2000&pause=500&color=58A6FF&background=0D111700&center=true&vCenter=true&width=460&height=60&lines=%F0%9F%92%BB+Full-Stack+Developer;" alt="动态标题" />
+</p>
 
 <p align="center">
   ⚡ 构建可靠系统 | 专注代码质量 | 全栈技术实践者
