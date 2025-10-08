@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Siersi (Siers1)
+# 👋 Hi, I'm Siersi
 
 **`Full-Stack Developer`**  
 ⚡ 简洁 · 高效 · 代码即艺术
