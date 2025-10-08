@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Siersi 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2000&pause=500&color=58A6FF&background=0D111700&center=true&vCenter=true&width=460&height=60&lines=%F0%9F%92%BB+Full-Stack+Developer;" alt="动态标题" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2000&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&width=300&lines=Full-Stack+Developer" alt="Full-Stack Developer" />
 </p>
 
 <p align="center">
