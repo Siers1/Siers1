@@ -20,8 +20,8 @@
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-6DB33F?logo=spring&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vuedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![MyBatis](https://img.shields.io/badge/-MyBatis-black?logo=apache&logoColor=red)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-<-- ![MyBatis](https://img.shields.io/badge/-MyBatis-black?logo=apache&logoColor=red) -->
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
 
 ---
